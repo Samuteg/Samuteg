@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working as full-stack<br>- 📚 I'm currently learning golang<br>- ⚡ In my free time I make projects and freelance</p>
+<p align="left">- 🔭 I’m working as full-stack<br>- 📚 I'm currently learning Java<br>- ⚡ In my free time I make projects and freelance</p>
 
 ###
 
